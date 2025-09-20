@@ -1,0 +1,1 @@
+Minimal Equity Research Note – Self-initiated project analyzing an Indian FMCG company. Includes a 2-page equity research report with company overview, macroeconomic drivers, simple DCF & peer P/E valuation, and a final investment thesis, plus a lightweight Python script for quick data pull and valuation.
